@@ -1,3 +1,7 @@
+Check out the video demonstration of the project [here](https://youtu.be/1G1OCJge1X8)
+Also, here is the repo for the python code [here]([https://github.com/E-code804/SPD_Bylaws_Assistant_next](https://github.com/E-code804/SPD_Bylaws_Assistant_py))
+I am only displaying a video demonstration of this project to prevent misuse and/or overuse of my OpenAPI account, thank you for understanding.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
